@@ -3,7 +3,8 @@ Here’s a `README.md` file tailored for your project:
 ```markdown
 # Decentralized MOOCs Platform
 
-## Vision
+## Vision  ![image](https://github.com/user-attachments/assets/56be8a03-37ec-4a2d-b925-417818286edd)
+
 
 The Decentralized MOOCs (Massive Open Online Courses) Platform aims to revolutionize online education by leveraging blockchain technology. By providing a transparent, secure, and decentralized system for course creation, enrollment, and certification, we empower instructors and students to engage in education without intermediaries, ensuring trust and authenticity in the learning process.
 
