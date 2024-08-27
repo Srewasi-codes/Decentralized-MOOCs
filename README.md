@@ -1,8 +1,9 @@
-Here’s a `README.md` file tailored for your project:
+![image](https://github.com/user-attachments/assets/3bab1f39-3312-469a-ba33-b1f3643a83b3)
+
 
 ```markdown
 # Decentralized MOOCs Platform
-![image](https://github.com/user-attachments/assets/731d3a9d-5b5c-4b5f-9cbb-9dd71a3d9cce)
+
 
 ## Vision 
 
